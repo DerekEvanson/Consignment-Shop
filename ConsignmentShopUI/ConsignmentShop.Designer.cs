@@ -75,7 +75,7 @@
             // 
             this.storeProfitLabel.AutoSize = true;
             this.storeProfitLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.storeProfitLabel.Location = new System.Drawing.Point(350, 478);
+            this.storeProfitLabel.Location = new System.Drawing.Point(362, 478);
             this.storeProfitLabel.Margin = new System.Windows.Forms.Padding(1, 0, 1, 0);
             this.storeProfitLabel.Name = "storeProfitLabel";
             this.storeProfitLabel.Size = new System.Drawing.Size(106, 20);
@@ -86,7 +86,7 @@
             // 
             this.storeProfitValue.AutoSize = true;
             this.storeProfitValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.storeProfitValue.Location = new System.Drawing.Point(458, 478);
+            this.storeProfitValue.Location = new System.Drawing.Point(470, 478);
             this.storeProfitValue.Margin = new System.Windows.Forms.Padding(1, 0, 1, 0);
             this.storeProfitValue.Name = "storeProfitValue";
             this.storeProfitValue.Size = new System.Drawing.Size(54, 20);
